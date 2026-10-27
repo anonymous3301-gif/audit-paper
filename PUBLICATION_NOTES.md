@@ -43,4 +43,5 @@ No institutional or corporate IP review is required.
 
 ## DOI
 
-Zenodo DOI: pending `v0.1-draft` release.
+Zenodo DOI (v0.1-draft): `10.5281/zenodo.23686931`  
+Zenodo record: https://zenodo.org/records/23686931
